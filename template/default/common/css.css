@@ -1,0 +1,19 @@
+@CHARSET "UTF-8";
+* {
+	margin:0px;
+	padding:0px;
+	font-family:"微软黑雅";
+	font-size:16px;
+	}
+li{
+	list-style:none;
+	padding:20px 0;
+}
+
+.errorMsg {
+	padding:2px;
+	color:red;
+	font-size:14px;
+	width:400px;
+	border:1px solid #AAAAAA;
+}

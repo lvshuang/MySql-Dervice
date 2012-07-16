@@ -1,0 +1,40 @@
+*{
+    font-family:"宋体,黑体,sans serif";
+    font-size: 14px;
+    padding: 0px;
+    margin: 0px;
+}
+
+h1{
+    font-size: 1.6em;
+}
+
+#header{
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    border: 1px solid #8a2be2;
+}
+
+#headerleft{
+    width: 199px;
+    height: 100px;
+    background: #8a2be2;
+    float: left;
+}
+#headerright{
+    line-height: 100px;
+}
+
+#menue{
+    width: 200px;
+    height: 100%;
+    background: #8a2be2;
+    float: left;
+}
+
+#menue a{
+    color: #FFF;
+    display: block;
+    padding: 5px 10px;
+}
