@@ -1,6 +1,6 @@
 <?php
 /**
- * @desc 去除全局变量中的HTML代码
+ * @desc 去除全局变量中的HTML代码  
  * @author Lv_Shuang lvshuang1201@gmail.com
  */
 final class Request{
